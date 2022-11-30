@@ -1,7 +1,8 @@
 # :zap: yarn berry monorepo 템플릿입니다.
 
+![localhost_3000_](https://user-images.githubusercontent.com/95972251/204802950-d9d01e98-af80-424b-a2c3-aa7b0930d76b.png)
 
-
+:sparkles: yarn berry monorepo 템플릿입니다. :sparkles:
 ## yarn 전역 설치 
 - 이미 설치되어 있다면 넘어가셔도 됩니다.
 
