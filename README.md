@@ -58,4 +58,4 @@ yarn dlx @yarnpkg/sdks vscode
 ```
 
 ## 📎 출처
-- https://minify.tistory.com/40를 참고하여 작성하였습니다.
+- https://minify.tistory.com/40 를 참고하여 작성하였습니다.
