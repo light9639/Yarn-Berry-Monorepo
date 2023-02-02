@@ -1,4 +1,4 @@
-# :zap: yarn berry monorepo 템플릿입니다.
+# 🫐 yarn berry monorepo 템플릿입니다.
 
 ![localhost_3000_](https://user-images.githubusercontent.com/95972251/204802950-d9d01e98-af80-424b-a2c3-aa7b0930d76b.png)
 
@@ -21,7 +21,7 @@ yarn set version berry
 - `yarn -v`를 실행하여 yarn 2.0 이상인지 확인 이후 `yarn init`으로 프로젝트 생성.
 
 - package.json 파일을 다음과 같이 설정.
-```bash
+```js
 {
   "name": "monorepo",
   "private": true,
